@@ -11,3 +11,4 @@ for i in li:
     
     if i > 0:     # since 0 is neither positive nor negative
        print(i, end = " ")
+
