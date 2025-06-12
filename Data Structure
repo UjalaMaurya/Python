@@ -10,3 +10,4 @@ print("Area of circle =", a)
 fn = input("Input the Filename: ")
 f_extns = fn.split(".")
 print ("The extension of the file is : " + repr(f_extns[-1]))
+
